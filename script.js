@@ -21,7 +21,7 @@ const div=document.createElement('div');
     const p=document.createElement('p');
     p.innerText=country.name.common;
   div.appendChild(p);
-div.classList.add('count');
+div.classList.add('coun');
   countryDiv.appendChild(div);
 
 }
